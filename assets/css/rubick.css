@@ -2414,7 +2414,7 @@ a.carousel-control span.fa {
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  width: 60%;
+  width: 75%;
 }
 .section-header h1 {
   letter-spacing: 0.1em;
