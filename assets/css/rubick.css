@@ -1671,7 +1671,7 @@ h3, .h3 {
   margin-bottom: 1.05882353em;
 }
 
-.h3, h3 more-space  {
+.h3, h3.more-space  {
     margin-bottom: 2.05882em;
 }
 
